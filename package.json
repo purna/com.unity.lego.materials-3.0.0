@@ -15,7 +15,7 @@
     "footprint": "56cc8c4c6729f625bbfd7384e28484b364d28ee7"
   },
   "repository": {
-    "url": "https://github.com/Unity-Technologies/com.unity.lego.materials.git",
+    "url": "https://github.com/purna/com.unity.lego.materials.git",
     "type": "git",
     "revision": "0ee79a2a30a373a802dab61ccb05dd42cd4f98d4"
   }
